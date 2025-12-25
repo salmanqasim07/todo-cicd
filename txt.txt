@@ -1,2 +1,6 @@
+
 this bux fix branch
+
+This is is for creating conflicts usnig feature and bugfix branch
+
 this is my first commit made by haris and salman
