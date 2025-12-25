@@ -1,6 +1,16 @@
+Line 1: Feature + Bugfix merged properly
+
+
+
+
 this bug creating
 
 this bux fix branch
+
+
+Line 1: Feature branch says hello
+
+
 
 This is is for creating conflicts usnig feature and bugfix branch
 
